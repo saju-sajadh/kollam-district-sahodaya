@@ -20,8 +20,24 @@ export default function Home({ posts }) {
       >
         <div className="space-y-2 p-3 md:space-y-5">
           <h1 className="flex items-center justify-center text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Score Board
-          </h1>
+  <span style={{ color: "#FF5733" }}>K</span>
+  <span style={{ color: "#33FF57" }}>i</span>
+  <span style={{ color: "#3357FF" }}>d</span>
+  <span style={{ color: "#FF33A1" }}>s</span>
+  <span style={{ color: "#FF5733" }}> </span>
+  <span style={{ color: "#33FFF5" }}>F</span>
+  <span style={{ color: "#FFBD33" }}>e</span>
+  <span style={{ color: "#9C33FF" }}>s</span>
+  <span style={{ color: "#FF3333" }}>t</span>
+  <span style={{ color: "#FF5733" }}> </span>
+  <span style={{ color: "#33FF57" }}>2</span>
+  <span style={{ color: "#3357FF" }}>0</span>
+  <span style={{ color: "#FF33A1" }}>2</span>
+  <span style={{ color: "#FFBD33" }}>4</span>
+  <span style={{ color: "#FF5733" }}>-</span>
+  <span style={{ color: "#33FFF5" }}>2</span>
+  <span style={{ color: "#FF3333" }}>5</span>
+</h1>
         </div>
         <div className="flex justify-center ">
           <Scrollable />
