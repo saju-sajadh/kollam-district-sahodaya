@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Kollam District Sahodaya',
+  title: 'Kollam Sahodaya',
   author: 'Techosa',
-  headerTitle: 'Kollam District Sahodaya',
+  headerTitle: 'Kollam Sahodaya',
   // description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
