@@ -11,21 +11,7 @@ const categories = [
     name: 'Category 2',
     link: '/category/Category 2',
   },
-  {
-    id: 3,
-    name: 'Category 3',
-    link: '/category/Category 3',
-  },
-  {
-    id: 4,
-    name: 'Category 4',
-    link: '/category/Category 4',
-  },
-  {
-    id: 5,
-    name: 'Common',
-    link: '/category/Common',
-  },
+  
   // Add more categories as needed
 ]
 
