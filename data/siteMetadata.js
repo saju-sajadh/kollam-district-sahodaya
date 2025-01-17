@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'Kollam Sahodaya - Mar Baselios School',
   author: 'Techosa',
-  headerTitle: 'Kollam Sahodaya - Mar Baselios School',
+  headerTitle: 'Kollam Sahodaya',
   // description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
