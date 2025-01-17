@@ -44,7 +44,7 @@ const Header = () => {
         </Link>
         <div className="m-4 flex items-center space-x-4 leading-5 sm:space-x-6">
           <div className="text-white font-extrabold text-2xl">
-            <h1>Cutie's Fest 2024</h1>
+            <h1>venue: Mar Baselios School, Kaithacode</h1>
           </div>
           <div className="no-scrollbar hidden max-w-40 items-center space-x-4 overflow-x-auto sm:flex sm:space-x-6 md:max-w-72 lg:max-w-96">
             {session && (
