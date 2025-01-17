@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Kollam Sahodaya',
+  title: 'Kollam Sahodaya - Mar Baselios School',
   author: 'Techosa',
-  headerTitle: 'Kollam Sahodaya',
+  headerTitle: 'Kollam Sahodaya - Mar Baselios School',
   // description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
